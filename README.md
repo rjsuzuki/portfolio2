@@ -4,3 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 If you have any questions, please feel free to contact me at ryanjsuzuki@gmail.com.
 
 Cheers.
+
+
+## c9.io
+nvm ls-remote
+nvm install [version]
