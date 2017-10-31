@@ -9,3 +9,7 @@ Cheers.
 ## c9.io
 nvm ls-remote
 nvm install [version]
+nvm use [version]
+nvm ls - determines currently used version
+nvm alias default 7.1.0 - sets default version to 7.1.0
+nvm use default
