@@ -18,7 +18,7 @@ class ShuffleView extends React.Component {
                 <Project title="Flappy Bird Clone" info="Unity + C#" imgSrc={projectimg3} url="http://github.com/rjsuzuki/flappybird-clone-demo" alt="flappy" data-groups='["misc"]'/>
                 <Project title="Dotfiles" info="A simple dotfile setup" imgSrc={projectimg4} alt="dotfiles" url="http://github.com/rjsuzuki/dotfiles" data-groups='["misc"]' />
                 <Project title="Untitled Android App" info="android studio + java + kotlin + google API + BART API" 
-                                imgSrc={projectimg5} alt="android" url="http://github.com/rjsuzuki/transitapp" data-groups='["mobile"]' />
+                                imgSrc={projectimg5} alt="android" url="http://github.com/rjsuzuki/transit-app" data-groups='["mobile"]' />
                 <Project title="HTMLyo" info="A hackable bash script to generate simple html docs" imgSrc={projectimg6} url="http://github.com/rjsuzuki/htmlyo" data-groups='["misc"]' /> 
             </div>
         </div>
