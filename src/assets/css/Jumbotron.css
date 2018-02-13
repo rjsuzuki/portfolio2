@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url("../img/banner3.png");
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
