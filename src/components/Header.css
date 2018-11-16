@@ -1,7 +1,15 @@
-.brand {
-    margin-top: 5px;
+.avatar-div {
+    text-align: center;
+}
+.avatar {
+    width: auto;
+    height: 200px;
 }
 
-.social {
-    padding: 5px;
+.title {
+    text-align: center;
+}
+
+.title h1 {
+    font-family: 'Indie Flower', cursive;
 }
